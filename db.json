@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "2f4a",
+      "name": "arsdtyggjfhg",
+      "count": 1,
+      "imageUrl": "54ujr7ty",
+      "weight": "4yetrhb4",
+      "size": {
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "name": "Яйцо",
+      "count": "7",
+      "imageUrl": "https://produkty24.com.ua/db_pic/products/original/img_1295535_[1516958378.5804].jpg",
+      "weight": "98",
+      "size": {
+        "width": 100,
+        "height": 100
+      },
+      "id": "f67b"
+    }
+  ],
+  "comments": [
+    {
+      "id": "ff6b",
+      "productId": "f67b",
+      "description": "comment egg\n",
+      "date": "10.07.2025, 15:56:00"
+    },
+    {
+      "id": "690e",
+      "productId": "2f4a",
+      "description": "comment hefgvqbiehbflie\n",
+      "date": "10.07.2025, 15:56:08"
+    }
+  ]
+}

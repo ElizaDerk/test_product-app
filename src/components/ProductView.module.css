@@ -1,0 +1,65 @@
+
+.container {
+    max-width: 700px;
+    margin: 25px auto;
+    padding: 20px 25px;
+    background-color: #fafafa;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #222;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerButton {
+    background-color: #007bff;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+}
+
+.headerButton:hover {
+    background-color: #0056b3;
+}
+
+.info {
+    margin-top: 20px;
+}
+
+.infoImg {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 6px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
+    margin-bottom: 15px;
+}
+
+.infoParagraph {
+    margin: 6px 0;
+    font-size: 1rem;
+}
+
+.editButton {
+    margin-top: 15px;
+    padding: 8px 14px;
+    border-radius: 5px;
+    border: none;
+    background-color: #28a745;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.editButton:hover {
+    background-color: #1e7e34;
+}
